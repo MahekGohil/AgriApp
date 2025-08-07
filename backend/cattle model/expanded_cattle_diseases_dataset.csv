@@ -1,0 +1,256 @@
+Disease,Symptoms,Treatment,Prevention,Diagnosis
+Hypocalcaemia,"muscle tremors, recumbency",Calcium injection,Calcium-rich diet,Blood test
+Anthrax,"bloody discharge from orifices, red-stained milk or urine",High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Bovine Respiratory Disease,coughing,"Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Lice,"itching, rubbing, visible lice",Pour-on treatment,Isolate infested cattle,Visual exam
+Coccidiosis,"black diarrhoea, straining, dehydration",Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Heat Stress,"panting, foaming","Cool environment, water, shade",Good management in heat,Panting score
+Leptospirosis,red urine,Antibiotics,Vaccination,"Blood test, post-mortem"
+Grass Tetany,stiff gait,Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Foot and Mouth Disease,drooling,No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Acidosis,"stop eating, diarrhoea, bloating, dehydration, recumbency","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Heat Stress,"panting, drooling, foaming","Cool environment, water, shade",Good management in heat,Panting score
+Nitrate Poisoning,collapse,"Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Papillomatosis,"warts, may affect reproduction","Usually self-cure, surgical removal",Vaccination,"Visual exam, biopsy"
+Malignant Catarrhal Fever,"high fever, cloudy eyes",Supportive care,Avoid sheep contact,Blood/tissue sample
+Diarrhoea (Neonatal),"diarrhoea, sunken eyes","Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Bloat,"distended flank, mouth breathing","Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Leptospirosis,"abortion, jaundice, red urine",Antibiotics,Vaccination,"Blood test, post-mortem"
+Lumpy Skin Disease,nodules,No effective treatment,"Vector control, biosecurity",Lab sample testing
+Bovine Johne’s Disease,"weight loss, diarrhoea",No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Lumpy Skin Disease,"fever, discharge",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Perennial & Annual Ryegrass Toxicity,"staggering, convulsions",Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Lumpy Skin Disease,abortions,No effective treatment,"Vector control, biosecurity",Lab sample testing
+Coccidiosis,dehydration,Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Eye Cancer,"ulcers, bleeding, weeping eye",Surgical removal,Select pigmented cattle,Clinical signs
+Acidosis,bloating,"Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Copper Deficiency,"loss of hair pigment, ataxia, diarrhoea",Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Pink Eye,eye discharge,"Antibiotics, eye patch","Fly control, vaccines",Visual exam
+Phalaris Toxicity,"heart attack, staggering",No treatment,Cobalt supplementation,Post-mortem brain exam
+Foot and Mouth Disease,mouth and hoof blisters,No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Foot Abscess,"lameness, pus","Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Heat Stress,"panting, drooling","Cool environment, water, shade",Good management in heat,Panting score
+Bovine Johne’s Disease,"weight loss, still eating",No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Diarrhoea (Adult),fever,"Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Lice,"itching, rubbing",Pour-on treatment,Isolate infested cattle,Visual exam
+Nitrate Poisoning,death,"Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Lumpy Skin Disease,"fever, weight loss",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Bovine Viral Diarrhoea Virus,diarrhoea,"Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Lumpy Skin Disease,weight loss,No effective treatment,"Vector control, biosecurity",Lab sample testing
+Botulism,"muscle weakness, tongue paralysis",Supportive care,Vaccination,"History, feed sample analysis"
+Diarrhoea (Neonatal),"lethargy, sunken eyes","Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Lead Poisoning,"blindness, unresponsive",Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Hardware Disease,ill-thrift,"Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Phalaris Toxicity,head nodding,No treatment,Cobalt supplementation,Post-mortem brain exam
+Heat Stress,panting,"Cool environment, water, shade",Good management in heat,Panting score
+Acidosis,"dehydration, recumbency","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Bloat,mouth breathing,"Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Lumpy Skin Disease,fever,No effective treatment,"Vector control, biosecurity",Lab sample testing
+Bloat,down animal,"Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Lice,itching,Pour-on treatment,Isolate infested cattle,Visual exam
+Leptospirosis,jaundice,Antibiotics,Vaccination,"Blood test, post-mortem"
+Hardware Disease,"fever, arched back","Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Acidosis,"stop eating, dehydration","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Diarrhoea (Older Calves),"diarrhoea, dehydration","Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Bovine Respiratory Disease,"nasal discharge, depression","Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Acetonaemia (Ketosis),"weight loss, lethargy","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Nitrate Poisoning,"diarrhoea, collapse, death","Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Enterotoxaemia,"convulsions, paddling",No treatment,"Vaccination, diet management",Post-mortem tissue analysis
+Diarrhoea (Older Calves),diarrhoea,"Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Copper Deficiency,diarrhoea,Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Actinobacillosis (Wooden Tongue),ulcers,"Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Enterotoxaemia,sudden death,No treatment,"Vaccination, diet management",Post-mortem tissue analysis
+Grass Tetany,"convulsions, sudden death",Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Photosensitisation,"itchy skin, blisters","Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Copper Deficiency,ataxia,Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Nitrate Poisoning,"diarrhoea, death","Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Diarrhoea (Older Calves),"poor growth, dehydration","Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Cobalt Deficiency,scaly ears,Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Hardware Disease,"fever, ill-thrift","Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Botulism,tongue paralysis,Supportive care,Vaccination,"History, feed sample analysis"
+Cobalt Deficiency,"scaly ears, anaemia",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Eye Cancer,"bleeding, weeping eye",Surgical removal,Select pigmented cattle,Clinical signs
+Bloat,"distended flank, down animal","Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Diarrhoea (Older Calves),dehydration,"Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Cobalt Deficiency,anaemia,Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Cobalt Deficiency,"scaly ears, scours in calves",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Photosensitisation,itchy skin,"Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Cobalt Deficiency,"ill-thrift, scours in calves",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Phalaris Toxicity,"head nodding, staggering",No treatment,Cobalt supplementation,Post-mortem brain exam
+Bovine Viral Diarrhoea Virus,"diarrhoea, nasal/ocular discharge","Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Lumpy Skin Disease,"weight loss, abortions",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Grass Tetany,"stiff gait, convulsions",Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Bovine Respiratory Disease,"coughing, nasal discharge","Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Cobalt Deficiency,"ill-thrift, scaly ears",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Anthrax,"sudden death, red-stained milk or urine",High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Acetonaemia (Ketosis),"sweet breath, lethargy","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Diarrhoea (Neonatal),diarrhoea,"Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Eye Cancer,bleeding,Surgical removal,Select pigmented cattle,Clinical signs
+Foot Abscess,pus,"Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Bloat,distended flank,"Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Heat Stress,"drooling, foaming","Cool environment, water, shade",Good management in heat,Panting score
+Bovine Viral Diarrhoea Virus,"diarrhoea, ulcers, nasal/ocular discharge","Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Malignant Catarrhal Fever,"high fever, nose erosion",Supportive care,Avoid sheep contact,Blood/tissue sample
+Perennial & Annual Ryegrass Toxicity,"convulsions, death",Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Acidosis,stop eating,"Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Foot and Mouth Disease,"fever, mouth and hoof blisters",No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Acidosis,recumbency,"Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Lumpy Skin Disease,"discharge, abortions",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Acidosis,"diarrhoea, recumbency","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Cobalt Deficiency,"ill-thrift, anaemia",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Lumpy Skin Disease,"nodules, weight loss",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Copper Deficiency,loss of hair pigment,Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Bovine Johne’s Disease,weight loss,No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Hardware Disease,"fever, arched back, ill-thrift","Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Photosensitisation,"blisters, scabs","Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Acetonaemia (Ketosis),"inappetence, weight loss","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Phalaris Toxicity,heart attack,No treatment,Cobalt supplementation,Post-mortem brain exam
+Bovine Johne’s Disease,still eating,No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Diarrhoea (Adult),diarrhoea,"Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Nitrate Poisoning,"diarrhoea, collapse","Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Botulism,"muscle weakness, salivation",Supportive care,Vaccination,"History, feed sample analysis"
+Acidosis,"diarrhoea, dehydration","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Coccidiosis,straining,Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Eye Cancer,weeping eye,Surgical removal,Select pigmented cattle,Clinical signs
+Bovine Respiratory Disease,"coughing, nasal discharge, depression","Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Diarrhoea (Adult),"diarrhoea, fever","Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Lumpy Skin Disease,"fever, abortions",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Photosensitisation,blisters,"Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Grass Tetany,convulsions,Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Coccidiosis,black diarrhoea,Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Lead Poisoning,blindness,Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Diarrhoea (Older Calves),poor growth,"Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Anthrax,"sudden death, bloody discharge from orifices, red-stained milk or urine",High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Anthrax,bloody discharge from orifices,High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Botulism,"tongue paralysis, salivation",Supportive care,Vaccination,"History, feed sample analysis"
+Acetonaemia (Ketosis),"inappetence, weight loss, sweet breath, lethargy","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Enterotoxaemia,convulsions,No treatment,"Vaccination, diet management",Post-mortem tissue analysis
+Leptospirosis,"jaundice, red urine",Antibiotics,Vaccination,"Blood test, post-mortem"
+Foot Abscess,"lameness, swelling, pus","Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Heat Stress,foaming,"Cool environment, water, shade",Good management in heat,Panting score
+Pink Eye,corneal scarring,"Antibiotics, eye patch","Fly control, vaccines",Visual exam
+Bovine Johne’s Disease,"diarrhoea, still eating",No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Acidosis,"stop eating, diarrhoea","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Actinobacillosis (Wooden Tongue),"salivation, firm tongue","Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Leptospirosis,abortion,Antibiotics,Vaccination,"Blood test, post-mortem"
+Diarrhoea (Older Calves),"diarrhoea, poor growth","Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Foot and Mouth Disease,"fever, drooling",No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Photosensitisation,"itchy skin, scabs","Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Phalaris Toxicity,"head nodding, heart attack",No treatment,Cobalt supplementation,Post-mortem brain exam
+Lumpy Skin Disease,"discharge, weight loss",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Perennial & Annual Ryegrass Toxicity,"staggering, convulsions, death",Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Anthrax,"sudden death, bloody discharge from orifices",High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Coccidiosis,"black diarrhoea, dehydration",Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Acidosis,diarrhoea,"Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Diarrhoea (Adult),abdominal pain,"Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Heat Stress,drooling,"Cool environment, water, shade",Good management in heat,Panting score
+Diarrhoea (Older Calves),"diarrhoea, poor growth, dehydration","Fluids, antibiotics, antiparasitics","Nutrition, pasture management",Faecal and blood samples
+Actinobacillosis (Wooden Tongue),"salivation, ulcers","Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Diarrhoea (Neonatal),"diarrhoea, lethargy","Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Copper Deficiency,"loss of hair pigment, ataxia",Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Perennial & Annual Ryegrass Toxicity,staggering,Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Lead Poisoning,unresponsive,Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Bloat,"mouth breathing, down animal","Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Lead Poisoning,"blindness, sudden death",Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Bloat,"distended flank, mouth breathing, down animal","Stomach tube, trochar in severe cases","Anti-bloat oil, hay before pasture","Distended abdomen, history"
+Acidosis,"bloating, recumbency","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Foot Abscess,"swelling, pus","Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Eye Cancer,"ulcers, bleeding",Surgical removal,Select pigmented cattle,Clinical signs
+Acidosis,"diarrhoea, bloating","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Coccidiosis,"straining, dehydration",Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Eye Cancer,ulcers,Surgical removal,Select pigmented cattle,Clinical signs
+Lumpy Skin Disease,"nodules, abortions",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Papillomatosis,warts,"Usually self-cure, surgical removal",Vaccination,"Visual exam, biopsy"
+Malignant Catarrhal Fever,nose erosion,Supportive care,Avoid sheep contact,Blood/tissue sample
+Bovine Respiratory Disease,depression,"Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Acidosis,"stop eating, recumbency","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Malignant Catarrhal Fever,high fever,Supportive care,Avoid sheep contact,Blood/tissue sample
+Acetonaemia (Ketosis),inappetence,"Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Bovine Johne’s Disease,diarrhoea,No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Lead Poisoning,sudden death,Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Foot Abscess,swelling,"Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Acidosis,"bloating, dehydration","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Diarrhoea (Adult),"diarrhoea, abdominal pain, fever","Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Hardware Disease,arched back,"Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Anthrax,red-stained milk or urine,High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Enterotoxaemia,"sudden death, paddling",No treatment,"Vaccination, diet management",Post-mortem tissue analysis
+Acetonaemia (Ketosis),"inappetence, lethargy","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Diarrhoea (Neonatal),lethargy,"Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Perennial & Annual Ryegrass Toxicity,convulsions,Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Lead Poisoning,"unresponsive, sudden death",Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Phalaris Toxicity,"head nodding, heart attack, staggering",No treatment,Cobalt supplementation,Post-mortem brain exam
+Acetonaemia (Ketosis),sweet breath,"Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Foot Abscess,"lameness, swelling","Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Bovine Respiratory Disease,nasal discharge,"Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Acidosis,dehydration,"Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Photosensitisation,"itchy skin, blisters, scabs","Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Foot and Mouth Disease,"fever, drooling, mouth and hoof blisters",No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Grass Tetany,"stiff gait, sudden death",Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Cobalt Deficiency,scours in calves,Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Bovine Viral Diarrhoea Virus,"ulcers, nasal/ocular discharge","Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Bovine Respiratory Disease,"coughing, depression","Antibiotics, vitamin C, NSAIDs","Vaccination, minimize stress","Nasal swabs, post-mortem lung exam"
+Papillomatosis,may affect reproduction,"Usually self-cure, surgical removal",Vaccination,"Visual exam, biopsy"
+Perennial & Annual Ryegrass Toxicity,death,Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Bovine Viral Diarrhoea Virus,"diarrhoea, ulcers","Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Foot and Mouth Disease,fever,No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Foot and Mouth Disease,"drooling, mouth and hoof blisters",No effective treatment,"Biosecurity, avoid contaminated meat/products","Clinical signs, report to authorities"
+Actinobacillosis (Wooden Tongue),firm tongue,"Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Nitrate Poisoning,diarrhoea,"Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Diarrhoea (Neonatal),"diarrhoea, lethargy, sunken eyes","Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Lumpy Skin Disease,discharge,No effective treatment,"Vector control, biosecurity",Lab sample testing
+Grass Tetany,"stiff gait, convulsions, sudden death",Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Botulism,muscle weakness,Supportive care,Vaccination,"History, feed sample analysis"
+Nitrate Poisoning,"collapse, death","Remove from source, vet care",Avoid nitrate-rich feed,Plant/serum sample
+Diarrhoea (Neonatal),sunken eyes,"Fluids, electrolytes, antibiotics","Colostrum, hygiene, vaccination",Faecal sample
+Lice,visible lice,Pour-on treatment,Isolate infested cattle,Visual exam
+Perennial & Annual Ryegrass Toxicity,"staggering, death",Move to safe paddock,Pasture management,"Ryegrass test, clinical signs"
+Actinobacillosis (Wooden Tongue),"firm tongue, ulcers","Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Acetonaemia (Ketosis),"weight loss, sweet breath","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Cobalt Deficiency,ill-thrift,Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Acetonaemia (Ketosis),lethargy,"Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Lice,"rubbing, visible lice",Pour-on treatment,Isolate infested cattle,Visual exam
+Hardware Disease,fever,"Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Malignant Catarrhal Fever,"high fever, cloudy eyes, nose erosion",Supportive care,Avoid sheep contact,Blood/tissue sample
+Hypocalcaemia,recumbency,Calcium injection,Calcium-rich diet,Blood test
+Pink Eye,"eye discharge, corneal scarring","Antibiotics, eye patch","Fly control, vaccines",Visual exam
+Lice,rubbing,Pour-on treatment,Isolate infested cattle,Visual exam
+Papillomatosis,"warts, may affect reproduction","Usually self-cure, surgical removal",Vaccination,"Visual exam, biopsy"
+Grass Tetany,sudden death,Magnesium sulphate injection,Magnesium supplements,Blood/urine test
+Actinobacillosis (Wooden Tongue),salivation,"Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Malignant Catarrhal Fever,"cloudy eyes, nose erosion",Supportive care,Avoid sheep contact,Blood/tissue sample
+Acetonaemia (Ketosis),weight loss,"Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Bovine Viral Diarrhoea Virus,nasal/ocular discharge,"Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Lumpy Skin Disease,"nodules, discharge",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Actinobacillosis (Wooden Tongue),"salivation, firm tongue, ulcers","Sodium iodide, antibiotics","Avoid coarse feed, isolate infected","Pus smear, clinical signs"
+Leptospirosis,"abortion, red urine",Antibiotics,Vaccination,"Blood test, post-mortem"
+Foot Abscess,lameness,"Hoof trimming, antibiotics","Dry, clean ground",Hoof exam
+Photosensitisation,scabs,"Shade, treat skin infections",Avoid phototoxic plants,Clinical signs
+Hypocalcaemia,"muscle tremors, recumbency",Calcium injection,Calcium-rich diet,Blood test
+Lead Poisoning,"blindness, unresponsive, sudden death",Early veterinary care,Avoid lead exposure,"Blood test, post-mortem"
+Copper Deficiency,"loss of hair pigment, diarrhoea",Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Acidosis,"stop eating, bloating","Bicarbonate drench, fluids, euthanasia (severe)","Gradual diet change, roughage","Feed history, rumen content"
+Eye Cancer,"ulcers, weeping eye",Surgical removal,Select pigmented cattle,Clinical signs
+Phalaris Toxicity,staggering,No treatment,Cobalt supplementation,Post-mortem brain exam
+Anthrax,sudden death,High doses of penicillin (early cases),Vaccination (requires approval),"Quick 'penside' test, lack of rigor mortis"
+Acetonaemia (Ketosis),"inappetence, sweet breath","Propylene glycol, glucocorticoids, hay","Avoid feed deprivation, balanced energy diet",Urine/ milk dipstick for ketones
+Diarrhoea (Adult),"diarrhoea, abdominal pain","Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Copper Deficiency,"ataxia, diarrhoea",Copper supplementation,"Quality feed, supplements","Liver biopsy, feed analysis"
+Diarrhoea (Adult),"abdominal pain, fever","Fluids, antibiotics, dietary changes","Hygiene, dietary fiber","Faecal sample, blood test"
+Enterotoxaemia,"convulsions, sudden death",No treatment,"Vaccination, diet management",Post-mortem tissue analysis
+Enterotoxaemia,"convulsions, sudden death, paddling",No treatment,"Vaccination, diet management",Post-mortem tissue analysis
+Cobalt Deficiency,"anaemia, scours in calves",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Bovine Viral Diarrhoea Virus,ulcers,"Monitor, euthanise PI cattle","Vaccination, avoid PI exposure",Blood/milk/tissue samples
+Leptospirosis,"abortion, jaundice",Antibiotics,Vaccination,"Blood test, post-mortem"
+Botulism,salivation,Supportive care,Vaccination,"History, feed sample analysis"
+Malignant Catarrhal Fever,cloudy eyes,Supportive care,Avoid sheep contact,Blood/tissue sample
+Lice,"itching, visible lice",Pour-on treatment,Isolate infested cattle,Visual exam
+Coccidiosis,"black diarrhoea, straining",Sulphadimidine,"Water/feed off ground, ionophores",Faecal sample
+Pink Eye,"eye discharge, corneal scarring","Antibiotics, eye patch","Fly control, vaccines",Visual exam
+Lumpy Skin Disease,"nodules, fever",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Hypocalcaemia,muscle tremors,Calcium injection,Calcium-rich diet,Blood test
+Botulism,"muscle weakness, tongue paralysis, salivation",Supportive care,Vaccination,"History, feed sample analysis"
+Cobalt Deficiency,"ill-thrift, scaly ears, anaemia, scours in calves",Vitamin B12 injections,"Cobalt licks, supplements","Blood tests, pasture analysis"
+Lumpy Skin Disease,"nodules, fever, discharge, weight loss, abortions",No effective treatment,"Vector control, biosecurity",Lab sample testing
+Bovine Johne’s Disease,"weight loss, diarrhoea, still eating",No treatment,"Vaccination, avoid exposure to infected cattle","Serum/faecal sample, post-mortem"
+Hardware Disease,"arched back, ill-thrift","Magnet, surgery",Avoid metal contamination,"Manual exam, clinical signs"
+Enterotoxaemia,paddling,No treatment,"Vaccination, diet management",Post-mortem tissue analysis

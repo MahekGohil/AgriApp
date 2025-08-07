@@ -1,0 +1,6 @@
+firebase_functions~=0.1.0
+Flask==2.3.3
+numpy
+tensorflow==2.13.0
+flask-cors
+pillow

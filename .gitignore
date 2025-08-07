@@ -1,0 +1,7 @@
+# Ignore all virtual environments
+env/
+venv/
+.venv/
+**/env/
+**/venv/
+*.pyd
